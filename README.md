@@ -13,6 +13,7 @@ WikiTruth is a Flask web application designed to compare Wikipedia articles acro
 - Export comparison results to various formats
 - Share comparisons via social media and email
 - Support for 30+ languages
+  
 
 ## Technologies Used
 
