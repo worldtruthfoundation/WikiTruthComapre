@@ -6,6 +6,7 @@ import uuid
 from urllib.parse import quote
 from flask import Flask, render_template, request, jsonify, session, redirect, url_for
 
+
 # Import utility functions
 from utils import get_wikipedia_text_content, get_language_name
 from article_cache import article_cache
